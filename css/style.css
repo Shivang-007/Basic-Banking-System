@@ -1,0 +1,40 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	font-family: sans-serif;
+}
+
+h1{
+	color: #317e2e;
+	font-weight: bold;
+	transition: 0.5s;
+	text-align: center;
+}
+h3{
+	color:#2F363F;
+	
+}
+
+button{
+	border:none;
+	border-radius: 8px;
+	padding: 10px;
+	background:#70ecec; 
+	color:white;
+	letter-spacing: 1.5px;
+	font-size: 20px;
+	transition: 0.5s;
+}
+button:hover,h1:hover{
+	transform: scale(1.1);
+}
+button:hover{
+	background-color:#5de732;
+}
+
+
+.action{
+	text-align: center;
+	font-family: 'Roboto Slab', serif;
+}
