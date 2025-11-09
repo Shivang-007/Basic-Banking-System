@@ -35,7 +35,7 @@
               <div class="col-sm-12 col-md">
                 <div class="heading text-center my-2">
                 
-                  <h1>THE BANK OF INDIA = AHMEDABAD</h1>
+                  <h3>THE BANK OF INDIA</h3>
                 </div>
               </div>
               
