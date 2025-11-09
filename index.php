@@ -35,7 +35,7 @@
               <div class="col-sm-12 col-md">
                 <div class="heading text-center my-2">
                 
-                  <h1>THE SPARKS BANK</h1>
+                  <h1>THE BANK OF INDIA</h1>
                 </div>
               </div>
               
